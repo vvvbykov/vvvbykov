@@ -9,7 +9,7 @@
 Уделяю внимание деталям и качеству продукта, умею быстро разбираться в новых инструментах и процессах.  
 
 - 📫 Как связаться со мной:  
-  [![LinkedIn Badge](https://img.shields.io/badge/-@vvvbykov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://by.linkedin.com/in/vvvbykov)  
+  [![LinkedIn Badge](https://img.shields.io/badge/-@vvvbykov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vvvbykov)  
   [![Telegram Badge](https://img.shields.io/badge/-@vvvbykov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vvvbykov)  
   [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:vvvbykov@vk.com)
 
